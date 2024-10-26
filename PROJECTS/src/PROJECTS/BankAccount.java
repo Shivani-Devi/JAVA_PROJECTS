@@ -1,6 +1,7 @@
 package PROJECTS;
 
 public class BankAccount {
+	// Important for adding owner and for depositing and withdrawing options
 	private String owner;
 	private int balance;
 	
